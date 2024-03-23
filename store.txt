@@ -1,0 +1,5 @@
+snacks 
+veg
+fruits 
+jam
+bread 
